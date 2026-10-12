@@ -1,5 +1,4 @@
 # Leetcode-java-practice
-Java solutions to LeetCode problems with clear explanations, step-by-step code walkthroughs, and time and space complexity analysis.
 
 LeetCode 2897 : Apply Operations on Array to Maximize Sum of Squares
 
